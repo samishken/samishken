@@ -1,5 +1,8 @@
 ## Hi there 👋 I'm Sam Haile
 
+🤝🏻 Connect with Me
+LinkedIn: https://www.linkedin.com/in/samuel-hail/
+
 <!--
 **samishken/samishken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
