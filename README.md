@@ -1,7 +1,10 @@
 ## Hi there 👋 I'm Sam Haile
-`DevOps Engineer`
-`🤝🏻 Connect with Me`
-`LinkedIn: https://www.linkedin.com/in/samuel-hail/`
+<br>DevOps Engineer<br>
+<br>🤝🏻 Connect with Me<br>
+<br><br>
+<br><br>
+<br><br>
+<br>LinkedIn: https://www.linkedin.com/in/samuel-hail/<br>
 
 <!--
 **samishken/samishken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
