@@ -2,7 +2,7 @@
 I have more than 7 years professional IT experience in the design, development, build, and deployment of web applications across finance, insurance, utilities, consulting, education, marine, energy, and industrial industries. 5+ years of professional experience in DevOps, Cloud Automation, and Quality Engineering. Expertise in AWS services, container orchestration with EKS, and infrastructure as code (IaaC) using Terraform. Proven track record of enhancing collaboration between development and data science teams while ensuring compliance with security standards and best practices.
 <br>
 
-<br>Profile Site: http://resume.samhaile.net/<br>
+<br>Profile Site:<br> http://resume.samhaile.net/
 <br>🤝🏻 Connect with Me<br>
 - LinkedIn: https://www.linkedin.com/in/samuel-hail/<br>
 
