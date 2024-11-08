@@ -9,8 +9,7 @@ I have more than 7 years professional IT experience in the design, development, 
 
 ⚡ Streamlined Migration to Atlassian Cloud: Spearheaded the successful migration of self-managed Atlassian applications (Jira and Confluence) to Atlassian Cloud, significantly enhancing collaboration and accessibility for over 175 users. This complex project involved comprehensive planning, efficient data migration, and targeted user training, leading to a 90% reduction in maintenance overhead and a 92% improvement in compliance. This transition empowered the team to concentrate on core development initiatives while taking advantage of the latest features and robust security enhancements provided by the cloud platform.
 
-#### Profile Site: 
-http://resume.samhaile.net/
+#### Profile Site:  ###### http://resume.samhaile.net/
 
 <br>🤝🏻 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/samuel-hail/<br>
