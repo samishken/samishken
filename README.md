@@ -14,7 +14,7 @@ I have more than 7 years professional IT experience in the design, development, 
 
 ##### Profile Site: [http://resume.samhaile.net](http://resume.samhaile.net)
 
-<br>🤝🏻 Connect with Me
+##### 🤝🏻 Connect with Me
 - LinkedIn: [https://www.linkedin.com/in/samuel-hail/](https://www.linkedin.com/in/samuel-hail/)
 
 👯 I’m looking to collaborate on
