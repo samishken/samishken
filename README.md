@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm Sam Haile
 <br>DevOps Engineer<br>
 <br><br>
-
+- Profile Site: http://resume.samhaile.net/
+<br><br>
 <br>🤝🏻 Connect with Me<br>
 - LinkedIn: https://www.linkedin.com/in/samuel-hail/<br>
 
