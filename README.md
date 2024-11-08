@@ -5,7 +5,7 @@ I have more than 7 years professional IT experience in the design, development, 
 #### Accomplishments:
 ⚡Streamlined Infrastructure Automation: Led the migration from manual cloud resource management to automated infrastructure provisioning using Terraform, achieving a 50% reduction in provisioning time and enhancing resource efficiency by 90%, across multiple AWS environments. This contributed to operational cost savings of approximately $10,000 per month.
 
-<br>⚡ Enhanced Security Compliance: Successfully improved the CIS and NIST compliance scores of AWS environments from below 50% to 100% and 96%, respectively, within six months by implementing robust security measures and managing security vulnerabilities reported by AWS Security Hub.
+⚡ Enhanced Security Compliance: Successfully improved the CIS and NIST compliance scores of AWS environments from below 50% to 100% and 96%, respectively, within six months by implementing robust security measures and managing security vulnerabilities reported by AWS Security Hub.
 
 <br>⚡ Streamlined Migration to Atlassian Cloud: Spearheaded the successful migration of self-managed Atlassian applications (Jira and Confluence) to Atlassian Cloud, significantly enhancing collaboration and accessibility for over 175 users. This complex project involved comprehensive planning, efficient data migration, and targeted user training, leading to a 90% reduction in maintenance overhead and a 92% improvement in compliance. This transition empowered the team to concentrate on core development initiatives while taking advantage of the latest features and robust security enhancements provided by the cloud platform.
 
