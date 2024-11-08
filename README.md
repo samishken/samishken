@@ -12,12 +12,11 @@ I have more than 7 years professional IT experience in the design, development, 
 ## 🔗 Links
 
 
-##### Profile Site: [http://resume.samhaile.net](http://resume.samhaile.net)
+##### 🔭 Profile Site: [http://resume.samhaile.net](http://resume.samhaile.net)
 
-##### 🤝🏻 Connect with Me
-- LinkedIn: [https://www.linkedin.com/in/samuel-hail/](https://www.linkedin.com/in/samuel-hail/)
+##### 🤝🏻 Connect with Me   LinkedIn: [https://www.linkedin.com/in/samuel-hail/](https://www.linkedin.com/in/samuel-hail/)
 
-👯 I’m looking to collaborate on
+##### 👯 I’m looking to collaborate on
 - Terraform Automation
 - Microservice Applications Deployment
 
