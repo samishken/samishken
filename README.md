@@ -6,7 +6,7 @@ I have more than 7 years professional IT experience in the design, development, 
 <br>🤝🏻 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/samuel-hail/<br>
 
-🤔 I’m looking for help with ...
+👯 I’m looking to collaborate on
 - Terraform Automation
 - Microservice Applications Deployment
 
