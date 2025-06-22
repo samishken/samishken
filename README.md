@@ -24,7 +24,10 @@ I have more than 7 years professional IT experience in the design, development, 
 
 ##### 👯 I’m looking to collaborate on
 - Terraform Automation
-- Microservice Applications Deployment
+- Implement Security Best Practices
+- Deploy Containerized Application
+- Build and manage CICD Pipelines
+<img align="center" alt="Banner" src="https://github.com/aws-containers/retail-store-sample-app/raw/main/docs/images/banner.png">
 <img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <img align="right" alt="Coding" width="400" src="https://ehuwt7zd2je.exactdn.com/wp-content/uploads/2024/02/devops-engineer-skills.jpg?lossy=1&ssl=1">
 
