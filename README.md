@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Sam Haile -- Cloud/SRE and DevSecOps Engineer from Philadelphia, PA
-I have more than 7 years 8+ years of expertise architecting zero-trust AWS environments, Kubernetes platform migrations, and AI-enhanced CI/CD pipelines across the Aviation, Marine, Insurtech, Consulting, and Banking sectors. Proven track record of achieving SOC 2 and NIST compliance while reducing cloud spend by 25% through automated governance. Expert in scaling multi-account architectures, migrating production workloads from ECS to EKS, and provisioning Amazon Bedrock AgentCore infrastructure for AI agent platforms — accelerating delivery without compromising security or integrity.
+I have 8+ years of expertise architecting zero-trust AWS environments, Kubernetes platform migrations, and AI-enhanced CI/CD pipelines across the Aviation, Marine, Insurtech, Consulting, and Banking sectors. Proven track record of achieving SOC 2 and NIST compliance while reducing cloud spend by 25% through automated governance. Expert in scaling multi-account architectures, migrating production workloads from ECS to EKS, and provisioning Amazon Bedrock AgentCore infrastructure for AI agent platforms — accelerating delivery without compromising security or integrity.
 <br>
 
 #### Accomplishments:
