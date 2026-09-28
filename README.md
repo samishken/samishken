@@ -5,12 +5,15 @@ I have 8+ years of expertise architecting zero-trust AWS environments, Kubernete
 #### Accomplishments:
 ⚡ Achieved SOC 2 certification readiness in under 90 days by implementing audit-ready security controls, automated evidence
 collection, and secure CI/CD practices, enabling AirTera to win new enterprise clients and expand into regulated markets.
+
 ⚡ Improved cloud security posture across multiple organizations, raising CIS compliance to 100% and NIST compliance to 96% by
 automating vulnerability management, enforcing IAM least-privilege, and integrating continuous security scanning into CI/CD
 pipelines.
+
 ⚡ Accelerated cloud automation and reduced operational costs by leading large-scale IaC transformations using Terraform and AWS
 CDK, cutting provisioning time by 50%, improving resource efficiency by 90%, and reducing AWS spend by 20–30% through
 serverless and containerized architectures.
+
 ⚡ Led enterprise-wide migration of production microservices from ECS to EKS while standing up secure Amazon Bedrock AgentCore
 infrastructure, enabling the agentic engineering team to ship AI agent services with per-environment guardrails and credential
 isolation.
