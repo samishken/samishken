@@ -1,13 +1,19 @@
-## Hi there 👋 I'm Sam Haile -- DevSecOps Engineer from Philadelphia, PA
-I have more than 7 years professional IT experience in the design, development, build, and deployment of web applications across finance, insurance, utilities, consulting, education, marine, energy, and industrial industries. 5+ years of professional experience in DevOps, Cloud Automation, and Quality Engineering. Expertise in AWS services, container orchestration with EKS, and infrastructure as code (IaaC) using Terraform. Proven track record of enhancing collaboration between development and data science teams while ensuring compliance with security standards and best practices.
+## Hi there 👋 I'm Sam Haile -- Cloud/SRE and DevSecOps Engineer from Philadelphia, PA
+I have more than 7 years 8+ years of expertise architecting zero-trust AWS environments, Kubernetes platform migrations, and AI-enhanced CI/CD pipelines across the Aviation, Marine, Insurtech, Consulting, and Banking sectors. Proven track record of achieving SOC 2 and NIST compliance while reducing cloud spend by 25% through automated governance. Expert in scaling multi-account architectures, migrating production workloads from ECS to EKS, and provisioning Amazon Bedrock AgentCore infrastructure for AI agent platforms — accelerating delivery without compromising security or integrity.
 <br>
 
 #### Accomplishments:
-⚡Streamlined Infrastructure Automation: Led the migration from manual cloud resource management to automated infrastructure provisioning using Terraform, achieving a 50% reduction in provisioning time and enhancing resource efficiency by 90%, across multiple AWS environments. This contributed to operational cost savings of approximately $10,000 per month.
-
-⚡ Enhanced Security Compliance: Successfully improved the CIS and NIST compliance scores of AWS environments from below 50% to 100% and 96%, respectively, within six months by implementing robust security measures and managing security vulnerabilities reported by AWS Security Hub.
-
-⚡ Streamlined Migration to Atlassian Cloud: Spearheaded the successful migration of self-managed Atlassian applications (Jira and Confluence) to Atlassian Cloud, significantly enhancing collaboration and accessibility for over 175 users. This complex project involved comprehensive planning, efficient data migration, and targeted user training, leading to a 90% reduction in maintenance overhead and a 92% improvement in compliance. This transition empowered the team to concentrate on core development initiatives while taking advantage of the latest features and robust security enhancements provided by the cloud platform.
+⚡ Achieved SOC 2 certification readiness in under 90 days by implementing audit-ready security controls, automated evidence
+collection, and secure CI/CD practices, enabling AirTera to win new enterprise clients and expand into regulated markets.
+⚡ Improved cloud security posture across multiple organizations, raising CIS compliance to 100% and NIST compliance to 96% by
+automating vulnerability management, enforcing IAM least-privilege, and integrating continuous security scanning into CI/CD
+pipelines.
+⚡ Accelerated cloud automation and reduced operational costs by leading large-scale IaC transformations using Terraform and AWS
+CDK, cutting provisioning time by 50%, improving resource efficiency by 90%, and reducing AWS spend by 20–30% through
+serverless and containerized architectures.
+⚡ Led enterprise-wide migration of production microservices from ECS to EKS while standing up secure Amazon Bedrock AgentCore
+infrastructure, enabling the agentic engineering team to ship AI agent services with per-environment guardrails and credential
+isolation.
 
 ## 🔗 Links
 
